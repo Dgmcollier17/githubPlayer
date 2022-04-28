@@ -1,5 +1,5 @@
 :root {
-  --primary-color: rgb(118, 16, 181);
+  --primary-color: rgb(255, 0, 0);
   --font-color: white;
 }
 
@@ -26,9 +26,9 @@ body {
 .player {
   max-width: 80vw;
   min-width: 800px;
-  border: 5px solid black;
+  border: 5px solid rgb(255, 0, 0);
   border-radius: 10px;
-  background: black;
+  background: rgb(255, 0, 0);
   position: relative;
   cursor: pointer;
 }
