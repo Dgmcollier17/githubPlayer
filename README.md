@@ -1,1 +1,1 @@
-This branch has a virtual landscape video to play and VERY minor cs changes, uploaded via terminal.
+This branch has a stargazing video to play and VERY minor Styling changes, uploaded via terminal.
